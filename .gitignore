@@ -1,0 +1,11 @@
+# Ignore build files
+bin/
+obj/
+
+# Ignore logs
+*.log
+
+# Ignore databases
+*.db
+
+
