@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\AdventureWorksContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\AdventureWorksContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\AventureWorksAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AventureWorksAPI.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\aventureworksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:aventureworksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\Customer.cs",
-              "RelativeDocumentMoniker": "Models\\Customer.cs",
-              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\Customer.cs",
-              "RelativeToolTip": "Models\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:47:23.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:47:06.421Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdventureWorksContext.cs",
-              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\AdventureWorksContext.cs",
-              "RelativeDocumentMoniker": "Models\\AdventureWorksContext.cs",
-              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Models\\AdventureWorksContext.cs",
-              "RelativeToolTip": "Models\\AdventureWorksContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAABDAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-22T03:43:08.376Z",
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-11-22T19:18:59.486Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABrAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T03:26:33.543Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AventureWorksAPI.csproj",
+              "Title": "AventureWorksAPI",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\AventureWorksAPI.csproj",
               "RelativeDocumentMoniker": "AventureWorksAPI.csproj",
               "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\AventureWorksAPI.csproj",
               "RelativeToolTip": "AventureWorksAPI.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T03:26:27.016Z",
+              "WhenOpened": "2024-11-22T19:16:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T18:51:05.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dockerfile",
+              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\dockerfile",
+              "RelativeDocumentMoniker": "dockerfile",
+              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\dockerfile",
+              "RelativeToolTip": "dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T18:50:41.91Z",
               "EditorCaption": ""
             }
           ]
