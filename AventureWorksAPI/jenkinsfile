@@ -11,7 +11,7 @@ pipeline {
     stage('Docker Build') {
       steps {
         script {
-          bat 'docker build -t adventureWorkscontainer .'
+          bat 'docker build -t adventureworkscontainer .'
         }
       }
     }
