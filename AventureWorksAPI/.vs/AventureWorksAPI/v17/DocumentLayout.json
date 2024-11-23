@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:aventureworksapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -30,11 +38,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T00:40:45.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-23T00:40:21.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Jenkinsfile",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Jenkinsfile",
               "RelativeDocumentMoniker": "Jenkinsfile",
@@ -46,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -71,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -83,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "dockerfile",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\dockerfile",
               "RelativeDocumentMoniker": "dockerfile",
