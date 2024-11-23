@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:jenkinsfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|c:\\users\\olasa\\desktop\\adventureworks\\aventureworksapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4FA47273-2F80-4AA7-B371-9CBFC13196F3}|AventureWorksAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -26,11 +30,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "jenkinsfile",
+              "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\jenkinsfile",
+              "RelativeDocumentMoniker": "jenkinsfile",
+              "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\jenkinsfile",
+              "RelativeToolTip": "jenkinsfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-22T23:04:35.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\docker-compose.yml",
               "RelativeDocumentMoniker": "docker-compose.yml",
@@ -38,25 +55,23 @@
               "RelativeToolTip": "docker-compose.yml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2024-11-22T19:18:59.486Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T19:18:59.486Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AventureWorksAPI",
+              "DocumentIndex": 4,
+              "Title": "AventureWorksAPI.csproj",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\AventureWorksAPI.csproj",
               "RelativeDocumentMoniker": "AventureWorksAPI.csproj",
               "ToolTip": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\AventureWorksAPI.csproj",
               "RelativeToolTip": "AventureWorksAPI.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-11-22T19:16:39.038Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T19:16:39.038Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -69,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "dockerfile",
               "DocumentMoniker": "C:\\Users\\olasa\\Desktop\\AdventureWorks\\AventureWorksAPI\\dockerfile",
               "RelativeDocumentMoniker": "dockerfile",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-22T18:50:41.91Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T18:50:41.91Z"
             }
           ]
         }
